@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main()   {
+
+       char letra;
+
+printf("Ingresa una letra: ");
+scanf("%c",&letra: "):
+
+if(letra   
+printf("ingresa una letra==char)
+
+if(letra ==
+
+
+
